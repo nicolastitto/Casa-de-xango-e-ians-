@@ -1,0 +1,90 @@
+.Header{
+  display: grid;
+  grid-template-areas: "logo nav";
+  background: transparent;
+  width: 100%;
+  max-width: 1180px;
+  margin: 32px auto;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.logo {
+  height: 100px;
+}
+
+.Nav{
+  grid-area: nav;
+  display: flex;
+  grid-template-columns: repeat(2 , auto);
+  align-items: center;
+  justify-items: center;
+}
+
+.Nav span {
+  margin-left: 15px;
+  font: 700 20px SourcSource Serif Pro;
+  color: #b5b5b5;
+}
+
+.Nav p {
+  font: SF UI Display Medium;
+  color: #ff4040;
+}
+
+.Header button{
+  height: 30px;
+  width: 30px;
+  background: transparent;
+  border: none;
+  display: none;
+}
+
+@media (max-width: 700px) {
+  .Header{
+    grid-template-areas: "logo navIcon" "nav nav";
+  }
+
+  .Nav{
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: none;
+    grid-row-gap: 20px;
+  }
+
+  .Header button{
+    display: block;
+  }
+}
+
+.dropdown {
+  position: relative;
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+.dropdown:hover{
+  filter: brightness(70%);
+}
+.dropdown img {
+  margin-left: 5px;
+}
+
+.dropdown .icon{
+  display: flex;
+  align-items: center;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}

@@ -1,0 +1,7 @@
+.home-container{
+  display: grid;
+  background-image: url(../../assets/Imagens/Background-Site/img-bgtop.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+

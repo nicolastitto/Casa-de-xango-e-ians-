@@ -1,0 +1,61 @@
+.inicio-conteiner{
+  display: grid;
+}
+
+.information{
+  display: inline-block;
+  align-items: top;
+  background: transparent;
+  width: 100%;
+  max-width: 1180px;
+  margin: 32px auto;
+  color: #c7c7c7;
+  @media(min-width: 700px;){
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.abautUs{
+  display: inline-block;
+  vertical-align: top;
+  min-height: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 50%;
+  margin-right: -4px;
+  *zoom: 1;
+  *display: inline;
+    @media(max-width: 700px;){
+      width: 100%
+    }
+}
+
+.textInf{
+  color: #c7c7c7;
+}
+
+.information h1 {
+  font-size: 40px;
+  color: #707070;
+}
+
+.information ul {
+  margin-top: 10px;
+  list-style: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.information ul li {
+  margin-top: 5px;
+}
+
+.information ul li:hover{
+  color: #ff4040;
+}
+
+.space{
+  height: 136px;
+}

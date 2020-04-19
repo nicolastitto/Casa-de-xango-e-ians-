@@ -1,0 +1,45 @@
+.register-conteiner{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #000;
+}
+
+.text{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1180px;
+  margin: 32px auto;
+}
+
+.register-conteiner p {
+  font-size: 25px;
+  color: #707070;
+}
+
+.register-conteiner h1 {
+  font-size: 60px;
+  color: #fff;
+  font: SF UI Display bold;
+}
+@media(max-width: 700px){
+  .register-conteiner h1{
+    font-size: 50px;
+  }
+  .register-conteiner p{
+    font-size: 20px;
+  }
+}
+
+.register-conteiner button {
+  cursor: pointer;
+  height: 50px;
+  width: 300px;
+  border-radius: 30px;
+  border: none;
+  font-size: 25px;
+  color: #000;
+  font: SF UI Display Medium;
+}
