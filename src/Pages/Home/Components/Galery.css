@@ -1,0 +1,19 @@
+.galery-conteiner{
+  margin: 0;
+  background: #f0f0f5;
+}
+
+.galery-conteiner header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: transparent;
+  width: 100%;
+  max-width: 1180px;
+  margin: 32px auto;
+}
+
+.galery-conteiner header h1{
+  color: #707070;
+  font-size: 40px;
+}

@@ -29,6 +29,7 @@ export default function Agenda() {
           <button><img src={iconNext} alt=""/></button>
         </section>
       </div>
+
       <div className="wrapper-mobile">
         <section>
           <button><img src={iconPrev} alt=""/></button>

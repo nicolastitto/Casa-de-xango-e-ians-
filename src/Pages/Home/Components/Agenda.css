@@ -81,9 +81,6 @@
   .wrapper{
     display: none;
   }
-  .wrapper section{
-    grid-template-columns: repeat(3, auto);
-  }
   .wrapper-mobile{
     display: block;
   }
