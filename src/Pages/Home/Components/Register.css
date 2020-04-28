@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&display=swap');
+@import url('https://github.com/adobe-fonts/source-serif-pro.git');
+@import url('https://use.typekit.net/lfp2stq.css');
+@import url('../../../assets/font/SFDisplay/style.css');
+
 .register-conteiner{
   display: flex;
   align-items: center;
   justify-content: space-between;
   background: #000;
+  height: 150px;
+  width: auto;
 }
 
 .text{
@@ -10,36 +17,53 @@
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  max-width: 1180px;
+  max-width: 80%;
   margin: 32px auto;
 }
 
-.register-conteiner p {
-  font-size: 25px;
+.register-conteiner p {  
+  font-size: 24px;
   color: #707070;
 }
 
 .register-conteiner h1 {
-  font-size: 60px;
+  font-size: 50px;
   color: #fff;
-  font: SF UI Display bold;
-}
-@media(max-width: 700px){
-  .register-conteiner h1{
-    font-size: 50px;
-  }
-  .register-conteiner p{
-    font-size: 20px;
-  }
+  font-family: 'SF UI Display Semibold';
 }
 
 .register-conteiner button {
+  transition-duration: 0.15s;
   cursor: pointer;
-  height: 50px;
-  width: 300px;
-  border-radius: 30px;
+  font-family: 'Source Serif Pro';
+  font-weight: 700;
+  font-size: 36px;
+  height: 80px;
+  width: 30%;
+  border-radius: 50px;
   border: none;
-  font-size: 25px;
   color: #000;
-  font: SF UI Display Medium;
+}
+
+button:hover{
+  transition-duration: 0.15s;
+  background-color: #ff4040;
+  color: white;
+}
+
+@media(max-width: 700px){
+  .register-conteiner{
+    display: flex;
+    align-items: left;
+  }
+  .register-conteiner h1{
+    font-size: 30px;
+  }
+  .register-conteiner p{
+    font-size: 15px;
+  }
+  .register-conteiner button{
+    height: 60px;
+    font-size: 25px;
+  }
 }

@@ -1,0 +1,66 @@
+.play{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .playagenda {
+    position: relative;
+    justify-content: left;
+    max-width: 80%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .slide {
+    position: relative;
+    min-width: 25%;
+    height: 50%;
+    transition: 0.5s;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  #goleft {
+    position: absolute;
+    top: 50%;
+    left: 7%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 10%;
+    background: none;
+    border: none;
+    outline: none;
+  }
+  
+  #goright {
+    position: absolute;
+    top: 50%;
+    right: 7%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 10%;
+    background: none;
+    border: none;
+    outline: none;   
+  }
+
+  @media(max-width: 700px){
+    .play{
+      width: 80%;
+    }
+    .playagenda{
+      justify-content: left;
+    }
+    .slide{
+      min-width: 100%;
+    }
+  }
+
+  

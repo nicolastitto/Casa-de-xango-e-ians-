@@ -1,0 +1,796 @@
+%!Adobe-FontList 1.22
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\example.html
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-black-58646a6b80d5a.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-bold-58646a511e3d9.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-heavy-586470160b9e5.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-light-58646b33e0551.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-medium-58646be638f96.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-semibold-58646eddcae92.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-thin-58646e9b26e8b.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\sf-ui-display-ultralight-58646b19bf205.woff
+FileModTime:1587307686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\LICENSE.md
+FileModTime:1570830037
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-Black
+FamilyName:Source Serif Pro
+StyleName:Black
+FullName:Source Serif Pro Black
+MenuName:Source Serif Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:239188
+FileModTime:1570830037
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Black
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-BlackIt
+FamilyName:Source Serif Pro
+StyleName:Black Italic
+FullName:Source Serif Pro Black Italic
+MenuName:Source Serif Pro Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-BlackIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:165908
+FileModTime:1570830037
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Black
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-Bold
+FamilyName:Source Serif Pro
+StyleName:Bold
+FullName:Source Serif Pro Bold
+MenuName:Source Serif Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:241476
+FileModTime:1570830037
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-BoldIt
+FamilyName:Source Serif Pro
+StyleName:Bold Italic
+FullName:Source Serif Pro Bold Italic
+MenuName:Source Serif Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172096
+FileModTime:1570830037
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-ExtraLight
+FamilyName:Source Serif Pro
+StyleName:ExtraLight
+FullName:Source Serif Pro ExtraLight
+MenuName:Source Serif Pro ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228772
+FileModTime:1570830037
+WeightClass:200
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro ExtraLight
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-ExtraLightIt
+FamilyName:Source Serif Pro
+StyleName:ExtraLight Italic
+FullName:Source Serif Pro ExtraLight Italic
+MenuName:Source Serif Pro ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-ExtraLightIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160992
+FileModTime:1570830037
+WeightClass:200
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro ExtraLight
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-It
+FamilyName:Source Serif Pro
+StyleName:Italic
+FullName:Source Serif Pro Italic
+MenuName:Source Serif Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:165356
+FileModTime:1570830037
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-Light
+FamilyName:Source Serif Pro
+StyleName:Light
+FullName:Source Serif Pro Light
+MenuName:Source Serif Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235500
+FileModTime:1570830037
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Light
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-LightIt
+FamilyName:Source Serif Pro
+StyleName:Light Italic
+FullName:Source Serif Pro Light Italic
+MenuName:Source Serif Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-LightIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:167540
+FileModTime:1570830037
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Light
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-Regular
+FamilyName:Source Serif Pro
+StyleName:Regular
+FullName:Source Serif Pro
+MenuName:Source Serif Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:236192
+FileModTime:1570830037
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-Semibold
+FamilyName:Source Serif Pro
+StyleName:Semibold
+FullName:Source Serif Pro Semibold
+MenuName:Source Serif Pro Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:239464
+FileModTime:1570830037
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Semibold
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifPro-SemiboldIt
+FamilyName:Source Serif Pro
+StyleName:Semibold Italic
+FullName:Source Serif Pro Semibold Italic
+MenuName:Source Serif Pro Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\OTF\SourceSerifPro-SemiboldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172504
+FileModTime:1570830037
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Semibold
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\README.md
+FileModTime:1570830037
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-Black
+FamilyName:Source Serif Pro
+StyleName:Black
+FullName:Source Serif Pro Black
+MenuName:Source Serif Pro Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:232892
+FileModTime:1570830037
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Black
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-BlackIt
+FamilyName:Source Serif Pro
+StyleName:Black Italic
+FullName:Source Serif Pro Black Italic
+MenuName:Source Serif Pro Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-BlackIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173248
+FileModTime:1570830037
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Black
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-Bold
+FamilyName:Source Serif Pro
+StyleName:Bold
+FullName:Source Serif Pro Bold
+MenuName:Source Serif Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:233952
+FileModTime:1570830037
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-BoldIt
+FamilyName:Source Serif Pro
+StyleName:Bold Italic
+FullName:Source Serif Pro Bold Italic
+MenuName:Source Serif Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-BoldIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176332
+FileModTime:1570830037
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-ExtraLight
+FamilyName:Source Serif Pro
+StyleName:ExtraLight
+FullName:Source Serif Pro ExtraLight
+MenuName:Source Serif Pro ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:227584
+FileModTime:1570830037
+WeightClass:200
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro ExtraLight
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-ExtraLightIt
+FamilyName:Source Serif Pro
+StyleName:ExtraLight Italic
+FullName:Source Serif Pro ExtraLight Italic
+MenuName:Source Serif Pro ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-ExtraLightIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171652
+FileModTime:1570830037
+WeightClass:200
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro ExtraLight
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-It
+FamilyName:Source Serif Pro
+StyleName:Italic
+FullName:Source Serif Pro Italic
+MenuName:Source Serif Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-It.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173152
+FileModTime:1570830037
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-Light
+FamilyName:Source Serif Pro
+StyleName:Light
+FullName:Source Serif Pro Light
+MenuName:Source Serif Pro Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231604
+FileModTime:1570830037
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Light
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-LightIt
+FamilyName:Source Serif Pro
+StyleName:Light Italic
+FullName:Source Serif Pro Light Italic
+MenuName:Source Serif Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-LightIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:175076
+FileModTime:1570830037
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Light
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-Regular
+FamilyName:Source Serif Pro
+StyleName:Regular
+FullName:Source Serif Pro
+MenuName:Source Serif Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231036
+FileModTime:1570830037
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-Semibold
+FamilyName:Source Serif Pro
+StyleName:Semibold
+FullName:Source Serif Pro Semibold
+MenuName:Source Serif Pro Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:233808
+FileModTime:1570830037
+WeightClass:600
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Semibold
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifPro-SemiboldIt
+FamilyName:Source Serif Pro
+StyleName:Semibold Italic
+FullName:Source Serif Pro Semibold Italic
+MenuName:Source Serif Pro Semibold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\TTF\SourceSerifPro-SemiboldIt.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176412
+FileModTime:1570830037
+WeightClass:600
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Pro Semibold
+NameArray:0,Win,16,Source Serif Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifVariable-Italic
+FamilyName:Source Serif Variable
+StyleName:Italic
+FullName:Source Serif Variable Italic
+MenuName:Source Serif Variable
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\VAR\SourceSerifVariable-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:296396
+FileModTime:1570830037
+WeightClass:389
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifVariable-Italic
+FamilyName:Source Serif Variable
+StyleName:Italic
+FullName:Source Serif Variable Italic
+MenuName:Source Serif Variable
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\VAR\SourceSerifVariable-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:375824
+FileModTime:1570830037
+WeightClass:389
+WidthClass:5
+AngleClass:1
+DesignSize:100
+NameArray:0,Win,1,Source Serif Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SourceSerifVariable-Roman
+FamilyName:Source Serif Variable
+StyleName:Roman
+FullName:Source Serif Variable Roman
+MenuName:Source Serif Variable
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\VAR\SourceSerifVariable-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:458404
+FileModTime:1570830037
+WeightClass:389
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceSerifVariable-Roman
+FamilyName:Source Serif Variable
+StyleName:Roman
+FullName:Source Serif Variable
+MenuName:Source Serif Variable
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\VAR\SourceSerifVariable-Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:558176
+FileModTime:1570830037
+WeightClass:389
+WidthClass:5
+AngleClass:0
+DesignSize:100
+NameArray:0,Win,1,Source Serif Variable
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\package.json
+FileModTime:1570830037
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\source-serif-pro.css
+FileModTime:1570830037
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\source-serif-pro-release\source-serif-variable.css
+FileModTime:1570830037
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\danie\Documents\Programação\www\casa-de-xango\Casa-de-xango-e-ians-\src\assets\Font\style.css
+FileModTime:1587678781
+%EndFont
+
