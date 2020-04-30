@@ -8,38 +8,35 @@
   background: #f0f0f5;
 }
 
-.agenda-conteiner #agd-text {
+.agenda-conteiner header{
   display: flex;
   align-items: center;
-  max-width: 85%;
+  max-width: 80%;
   background: transparent;
   margin: 32px auto;
   justify-content: space-between;
 }
 
-.agenda-conteiner .meses{
+.agenda-conteiner ul{
+  list-style: none;
   display: flex;
-  justify-content: start;
   align-items: center;
   cursor: pointer;
   padding: 10px;
-  margin-right: 450px;
   margin-left: 8px;
-  width:50px;
-  height: 30px;
   font-family: 'SF UI Display Medium';
 }
 
-.meses p{
+ ul li{
   text-decoration: underline;
   padding: 0px 10px;
-  border-right: 1px solid black;
+  border-right: 1px solid black;  
 }
 
-.meses p:last-child{
+ul li:last-child{
   border: none;
 }
-.meses p:hover{
+ul li:hover{
   color: #ff4040;
 }
 
@@ -58,10 +55,41 @@
 
 .agenda-conteiner section {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   font-family: 'SF UI Display Light';
   font-size: 10px;
-  text-align: right;
-  align-content: flex-end;
+}
+.name{
+  display: flex;
+  align-items: center;
+}
+
+@media(max-width: 700px){
+  .name{
+    display: block;
+    align-items: center;
+    text-align: center;
+  }
+  ul{
+    align-items: center;
+    justify-content: center;
+  }
+
+  ul li{
+    align-items: center;
+    text-align: center;
+  }
+  
+  .agenda-conteiner header{
+    display: block;
+    align-items: center;
+    text-align: center;
+  }
+
+  .agenda-conteiner header section{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
 }

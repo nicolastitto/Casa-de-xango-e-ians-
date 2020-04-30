@@ -1,12 +1,16 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './Header.css';
 
-import logoImg from '../../../assets/logo.png';
+import logoImg from '../../../assets/logo.svg';
 import iconTalk from '../../../assets/icons/icon-faleconosco.svg';
 import iconMenu from '../../../assets/icons/icon-menu.svg';
 
 
 export default function Header() {
+
+    /*  Caso tenha que criar o ícone de menu no mobile.
+
+
     const [isNavVisible, setIsNavVisible] = useState(true);
     const [isSmallScreen, setIsSmallScreen] = useState(false);
 
@@ -32,17 +36,19 @@ export default function Header() {
         setIsNavVisible(!isNavVisible);
     };
 
+    {(isNavVisible || !isSmallScreen) && (Colocar código entre essa função)}
+     
+            Ícone
+            <button onClick={toggleNav}>
+                <img src={iconMenu} alt="" />
+            </button>
+    */
+
     return (
         <header className="Header">
-            <div className="title" id="t">
-                <img src={logoImg} className="logo" alt="Casa de Xangô e Iansã" />
-                <div className = "title-name">
-                    <h1>Casa de Xangô e Iansã</h1>
-                    <p>Terreiro de Umbanda São Jerônimo e Santa Bárbara</p>
-                </div>
-            </div>
 
-            {(isNavVisible || !isSmallScreen) && (
+                <img src={logoImg} className="logo" alt="Casa de Xangô e Iansã" />
+            
                 <nav className="Nav">
                     <div className="spacer" />
                     <div className="dropdown">
@@ -85,12 +91,7 @@ export default function Header() {
                             <a href="/">Contate-nos</a>
                         </div>
                     </div>
-                </nav>
-            )}
-
-            <button onClick={toggleNav}>
-                <img src={iconMenu} alt="" />
-            </button>
+                </nav>           
         </header>
     );
 }

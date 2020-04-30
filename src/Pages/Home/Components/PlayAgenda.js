@@ -45,14 +45,14 @@ export default function PlayAgenda() {
     if (!isSmallScreen) {
       x === 0 ? setX(-100 * (slideArr.length - 4)) : setX(x + 100);
     } else {
-      x === 0 ? setX(-100 * (slideArr.length - 1)) : setX(x + 100);
+      x === 0 ? setX(-100 * (slideArr.length - 2)) : setX(x + 100);
     }
   };
   const goright = () => {
     if (!isSmallScreen) {
       x === -100 * (slideArr.length - 4) ? setX(0) : setX(x - 100);
     }else{
-      x === -100 * (slideArr.length - 1) ? setX(0) : setX(x - 100);
+      x === -100 * (slideArr.length - 2) ? setX(0) : setX(x - 100);
     }
   };
 

@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&display=swap');
 @import url('https://github.com/adobe-fonts/source-serif-pro.git');
 @import url('https://use.typekit.net/lfp2stq.css');
-@import url('../../../assets/font/SFDisplay/style.css'
-);
+@import url('../../../assets/font/SFDisplay/style.css');
+
 .Header{
   display: grid;
   justify-content: space-between;
@@ -14,51 +14,12 @@
   margin: 32px auto;
 }
 
+.logo {
+  height: 100px;
+}
+
 .spacer {
   flex: 1;
-}
-
-.title{
-  position: absolute;
-  width: 80%;
-  height: 100px;
-  margin: 0;
-  max-width: 570px;
-  display: grid;
-  grid-template-columns: 1fr 4.2fr;
-  grid-template-rows: 10.6vh;
-  align-content: center;
-}
-
-
-.title .logo {
-  grid-column: 1;
-  grid-row: 1;
-  margin: 0;
-  flex-direction: left;
-  width: 100px;
-}
-
-.title h1{
-  padding-top: 18px;
-  grid-column: 2;
-  grid-row: 1;
-  color:white;
-  font-family: 'Source Serif Pro';
-  font-weight: 700;
-  font-size: 44px;
-  line-height: 1;
-  justify-self: left;
-}
-
-.title p{
-  padding-top: 64px;
-  grid-column: 2;
-  grid-row: 1;
-  font-family: 'SF UI Display Light';
-  font-size: 16px;
-  width: auto;
-  color: #787878;  
 }
 
 .Nav {
@@ -104,7 +65,7 @@
 }
 
   @media (max-width: 700px) {
-    .title-name{
+    .dropdown{
       display: none;
     }
     .Header{

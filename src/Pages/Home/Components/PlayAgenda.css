@@ -53,13 +53,14 @@
 
   @media(max-width: 700px){
     .play{
-      width: 80%;
+      width: 100%;
     }
     .playagenda{
+      width: 70%;
       justify-content: left;
     }
     .slide{
-      min-width: 100%;
+      min-width: 50%;
     }
   }
 
